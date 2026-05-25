@@ -1,8 +1,8 @@
 *
 !*/
-!print
-!printer
-!shapes
-!filament
+!print/
+!printer/
+!shapes/
+!filament/
 !.gitignore
 
